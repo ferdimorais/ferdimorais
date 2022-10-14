@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ferdimorais
+- 👀 I’m interested in learning and sharing code and tools for the community.
+- 🌱 I’m currently learning ML, Node.js
+- 💞️ I’m looking to collaborate on PHP, Javascript
+- 📫 How to reach me: ferdimorais79@gmail.com
